@@ -1,6 +1,7 @@
-<<<<<<< HEAD
-	<tr>
+<tr>
 	<td><span style="color:blue">1</span></td>
-	<td><span style="color:#FFCC00">LMF</span></td>		
+	<td><span style="color:#FFCC00">LMF</span></td>	
+	<td><span style="color:red">2</span></td>
+	
 </tr>	
->>>>>>> aa
+
